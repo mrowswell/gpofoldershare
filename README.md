@@ -54,6 +54,14 @@ On the common tab, check run in logged-on user's security context > click ok:  <
 Confirmation of new mapped drive:  <br/>
 <img src="https://imagur.org/i/SPcDNadO" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
+Test GPO with a random account on the domain:  <br/>
+<img src="https://imagur.org/i/7IqDsjAr" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Confirmation of folder:  <br/>
+<img src="https://imagur.org/i/u4fUqKic" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 </p>
 
 <!--
