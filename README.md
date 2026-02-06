@@ -27,24 +27,33 @@ In group management, select desired organisational unit > right click > create a
 <img src="https://imagur.org/i/OxFpQIPe" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Name it map share drive: <br/>
+<img src="https://imagur.org/i/Efi79cpM" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Right click > edit GPO:  <br/>
+<img src="https://imagur.org/i/ImfeL7uq" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+User configuration > preferences > windows settings > drive maps:  <br/>
+<img src="https://imagur.org/i/Am8Py3bK" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Right click > new mapped drive:  <br/>
+<img src="https://imagur.org/i/YWag3zuo" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configure: update > location > drive letter > check Reconnect:  <br/>
+<img src="https://imagur.org/i/e9v73Opa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+On the common tab, check run in logged-on user's security context > click ok:  <br/>
+<img src="https://imagur.org/i/DowAGnTH" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Confirmation of new mapped drive:  <br/>
+<img src="https://imagur.org/i/SPcDNadO" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 </p>
 
 <!--
